@@ -1,0 +1,50 @@
+[
+  {
+    "role": "Chief Executive Officer",
+    "url": "assets/people/Richard.png",
+    "text": "His primary responsibilities includes making major corporate decisions, managing the overall operations and resources of the company.",
+    "name": "Jack Hogue"
+  },
+
+  {
+    "role": "Frontend engineer",
+    "url": "assets/people/Marshall.png",
+    "text": "Software Engineer in charge of the visual web experience.",
+    "name": "Marshall Mhamad"
+  },
+
+  {
+    "role": "Project manager",
+    "url": "assets/people/monica.png",
+    "text": "Project manager, responsible for the planning, development and installation systems or new technology within the business.",
+    "name": "Monica Crew"
+  },
+
+  {
+    "role": "Network engineer",
+    "url": "assets/people/Gilfoyle.png",
+    "text": "A technically demanding role. It involves designing, setting up and maintaining communication systems",
+    "name": "John Martin"
+  },
+
+  {
+    "role": "Technical sales lead",
+    "url": "assets/people/laurie.png",
+    "text": "It involves providing advice to customers before and after sales",
+    "name": "Laurie Bream"
+  },
+
+  {
+    "role": "Technical Support",
+    "url": "assets/people/Jared.png",
+    "text": "We all need a bit of technology help sometimes. He is in charge of support, monitor and maintain the technology of the workplace.",
+    "name": "Jared Dunn"
+  },
+
+  {
+    "role": "Software tester",
+    "url": "assets/people/Erlich.png",
+    "text": "Required to test, fix and analyse systems to determine how it could fail.",
+    "name": "Erlich Bachman"
+  }
+]
